@@ -2,7 +2,7 @@
 
 Covid 19 Data Exploration
 
-Joins, CTE's, Temp Tables, Partitions, Aggregate Functions, Creating View.
+Joins, CTE's, Temp Tables, Partitions, Aggregate Functions, Creating Views, etc.
 
 */
 
